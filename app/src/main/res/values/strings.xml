@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test-vk-api</string>
+    <string name="message_text">Текст сообщения</string>
+    <string name="btn_attach">Вложение</string>
+    <string name="attach_name">Наименование вложения</string>
+    <integer name="com_vk_sdk_AppId">5650911</integer>
+</resources>
